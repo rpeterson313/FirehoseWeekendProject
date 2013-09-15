@@ -65,3 +65,4 @@ FirehouseApp::Application.configure do
   # with SQLite, MySQL, and PostgreSQL)
   # config.active_record.aut  # When we send mail
   config.action_mailer.default_url_options = { :host => 'firehose-rob.herokuapp.com' }
+end
